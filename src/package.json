@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "moment": "latest",
+    "antd": "latest",
+    "jest": "latest",
+    "@testing-library/react": "latest"
+  },
+  "keywords": [],
+  "name": "antd-reproduction-template",
+  "description": ""
+}
